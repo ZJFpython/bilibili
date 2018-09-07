@@ -4,7 +4,7 @@ from lxml import etree
 import json
 import os
 from multiprocessing import Pool
-import time22222
+import time
 def sub(s):
     patn_1 = re.compile(r'\?')
     patn_2 = re.compile(r'\/')
